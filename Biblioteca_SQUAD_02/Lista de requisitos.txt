@@ -1,0 +1,11 @@
+Lista de requisitos
+
+Os clientes deverão ter um ID, Nome, telefone, endereço e email.
+
+Clientes farão pedidos, os quais deverão ter ID, data, valor e qual clinte corresponde o pedido.
+
+Livros deverão conter ID, Título, editora, categoria, data de edição e autor.
+
+Os setores terão ID, nome do setor, quantidade de livros.
+
+Fornecedores ID, nome, endereço, telefone.
